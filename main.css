@@ -1,0 +1,31 @@
+em {
+    color: red;
+  }
+  img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 100px;
+  }
+  h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color: darkcyan;
+  }
+  h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: cadetblue;
+  }
+  body{
+    background-color: darkslategrey;
+    color: aliceblue;
+  }
+  a{
+    color: aliceblue;
+  }
+  a:visited{
+    color: lightgray;
+  }
+  a:hover, a:active{
+    color: azure;
+  }
